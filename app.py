@@ -1,5 +1,5 @@
 from flask import Flask
-import os
+import pymysql
 
 app = Flask(__name__)
 
